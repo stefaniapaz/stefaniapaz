@@ -1,4 +1,4 @@
-Hola ![](https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif)Mi nombre es Stefania Paz
+Hola ![](https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif)Soy Stefania Paz
 ====================================================================================================================================
 
 Tester Automatico
